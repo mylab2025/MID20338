@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "POWER MOSFET (N-Type)",
+        "PN": "TK100E10N1,S1X",
+        "MF": "Toshiba"
+      },
+      "MID": "MID20338",
+      "MD": "TK100E10N1,S1X is N-type MOSFET with VDS=-100V ID=-207A, & RDS=2.8mR Package: TO-220 || KM51138733.",
+      "MT": "Electronic Material",
+      "MQNT": 10,
+      "MCost": 473.46,
+      "MQATG": "#CLASS_0",
+      "ML": "120",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20338%2Fmain%2FTK100E10N1%2CS1X.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20338/main/IMG_20260228_140737.jpg"
+      ]
+    }
+  ]
+}
