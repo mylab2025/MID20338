@@ -7,7 +7,7 @@
         "MF": "Toshiba"
       },
       "MID": "MID20338",
-      "MD": "TK100E10N1,S1X is N-type MOSFET with VDS=-100V ID=-207A, & RDS=2.8mR Package: TO-220 || KM51138733.",
+      "MD": "TK100E10N1,S1X is N-type MOSFET with VDS=100V ID=207A, & RDS=2.8mR Package: TO-220 || KM51138733.",
       "MT": "Electronic Material",
       "MQNT": 10,
       "MCost": 473.46,
